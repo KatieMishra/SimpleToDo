@@ -20,7 +20,8 @@ The following **stretch** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] Keyboard disappears on add / returning from changing the text (originally the keyboard stayed until the user manually made it go away)
+* [x] User can't add an empty item or change an item to be empty 
 
 ## Video Walkthrough
 
