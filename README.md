@@ -20,14 +20,14 @@ The following **stretch** features are implemented:
 
 The following **additional** features are implemented:
 
-* [x] Keyboard disappears on add / returning from changing the text (originally the keyboard stayed until the user manually made it go away)
-* [x] User can't add an empty item or change an item to be empty 
+* [x] Keyboard disappears on add (originally the keyboard stayed until the user manually made it go away)
+* [x] User can't add an empty item 
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-[Walkthrough](BasicFeaturesDemo.gif)
+[Walkthrough](AdditionalFeaturesDemo.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
